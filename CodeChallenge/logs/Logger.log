@@ -1,0 +1,57 @@
+29/01/23 18:26:37 [main] INFO  resources.BaseClass - Initialized driver
+29/01/23 18:26:39 [main] INFO  resources.BaseClass - Driver is ready
+29/01/23 18:26:39 [main] INFO  resources.BaseClass - ------Starting Test case execution----------
+29/01/23 18:26:39 [main] INFO  resources.BaseClass - Opening LibreView page
+29/01/23 18:26:42 [main] INFO  resources.BaseClass - Clicking on Country Dropdown
+29/01/23 18:26:42 [main] INFO  resources.BaseClass - Selecting Country from Dropdown
+29/01/23 18:26:42 [main] INFO  resources.BaseClass - Clicking on Language Dropdown
+29/01/23 18:26:42 [main] INFO  resources.BaseClass - Selecting language from Dropdown
+29/01/23 18:26:43 [main] INFO  resources.BaseClass - Closing the cookie banner
+29/01/23 18:26:48 [main] ERROR resources.BaseClass - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='patHeaderLink']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-NOCK4PLV', ip: '192.168.0.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\91983\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5f3bd52dbaeced030fa5e7875e62c94
+*** Element info: {Using=xpath, value=//a[@id='patHeaderLink']}
+29/01/23 18:26:48 [main] INFO  resources.BaseClass - Header links are not visible for France country + French language
+29/01/23 18:26:48 [main] INFO  resources.BaseClass - -----Test case execution complete---------
+29/01/23 18:26:49 [main] INFO  resources.BaseClass - Initialized tear down
+29/01/23 18:26:49 [main] INFO  resources.BaseClass - Tear down complete
+29/01/23 18:28:04 [main] INFO  resources.BaseClass - Initialized driver
+29/01/23 18:28:05 [main] INFO  resources.BaseClass - Driver is ready
+29/01/23 18:28:05 [main] INFO  resources.BaseClass - ------Starting Test case execution----------
+29/01/23 18:28:05 [main] INFO  resources.BaseClass - Opening LibreView page
+29/01/23 18:28:07 [main] INFO  resources.BaseClass - Clicking on Country Dropdown
+29/01/23 18:28:07 [main] INFO  resources.BaseClass - Selecting Country from Dropdown
+29/01/23 18:28:07 [main] INFO  resources.BaseClass - Clicking on Language Dropdown
+29/01/23 18:28:07 [main] INFO  resources.BaseClass - Selecting language from Dropdown
+29/01/23 18:28:08 [main] INFO  resources.BaseClass - Closing the cookie banner
+29/01/23 18:28:13 [main] ERROR resources.BaseClass - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@id='patHeaderLink']"}
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-NOCK4PLV', ip: '192.168.0.211', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\91983\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52231}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 57336a690fd8cbf1b9da9e0f334acfaf
+*** Element info: {Using=xpath, value=//a[@id='patHeaderLink']}
+29/01/23 18:28:13 [main] INFO  resources.BaseClass - Header links are not visible for France country + French language
+29/01/23 18:28:13 [main] INFO  resources.BaseClass - -----Test case execution complete---------
+29/01/23 18:28:14 [main] INFO  resources.BaseClass - Initialized tear down
+29/01/23 18:28:14 [main] INFO  resources.BaseClass - Tear down complete
+29/01/23 18:28:46 [main] INFO  resources.BaseClass - Initialized driver
+29/01/23 18:28:48 [main] INFO  resources.BaseClass - Driver is ready
+29/01/23 18:28:48 [main] INFO  resources.BaseClass - ------Starting Test case execution----------
+29/01/23 18:28:48 [main] INFO  resources.BaseClass - Opening LibreView page
+29/01/23 18:28:50 [main] INFO  resources.BaseClass - Clicking on Country Dropdown
+29/01/23 18:28:50 [main] INFO  resources.BaseClass - Selecting Country from Dropdown
+29/01/23 18:28:51 [main] INFO  resources.BaseClass - Clicking on Language Dropdown
+29/01/23 18:28:51 [main] INFO  resources.BaseClass - Selecting language from Dropdown
+29/01/23 18:28:51 [main] INFO  resources.BaseClass - Closing the cookie banner
+29/01/23 18:28:52 [main] INFO  resources.BaseClass - Header links are visible for United States country + English language
+29/01/23 18:28:52 [main] INFO  resources.BaseClass - -----Test case execution complete---------
+29/01/23 18:28:53 [main] INFO  resources.BaseClass - Initialized tear down
+29/01/23 18:28:53 [main] INFO  resources.BaseClass - Tear down complete
